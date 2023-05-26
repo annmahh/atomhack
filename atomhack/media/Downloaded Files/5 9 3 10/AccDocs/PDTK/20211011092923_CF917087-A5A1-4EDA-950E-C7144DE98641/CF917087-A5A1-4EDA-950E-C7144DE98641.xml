@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<object id="{CF917087-A5A1-4EDA-950E-C7144DE98641}" createTime="2021-07-13T15:03:15Z" modifyTime="2021-07-13T15:04:10Z" status="S_AccommDoc_Create" createUser="USER1" objectDef="O_ACOMM_DOC" modifyUser="USER1">
+  <attributes>
+    <attribute name="A_Creation_Date" datatype="date" value="2021-07-06T21:00:00Z" />
+    <attribute name="A_Name" datatype="string" value="Заключение ПДТК" />
+    <attribute name="A_Designation" datatype="string" value="791_год " />
+    <attribute name="A_Docs_Tbl" datatype="table">
+      <rows>
+        <row order="1073741824">
+          <attribute name="A_Type_Link" datatype="classifier" value="N_Type_Link_PDTK" />
+          <attribute name="A_Doc_Addition_Ref" datatype="object" value="{7D53291D-68E8-4302-A4B4-5572EF06BDA4}" />
+          <attribute name="A_Note" datatype="string" value="" isNull="true" />
+        </row>
+        <row order="1073741824">
+          <attribute name="A_Type_Link" datatype="classifier" value="N_Type_Link_PDTK" />
+          <attribute name="A_Doc_Addition_Ref" datatype="object" value="{F630202A-2657-49AE-B708-95E444AEA88E}" />
+          <attribute name="A_Note" datatype="string" value="" isNull="true" />
+        </row>
+        <row order="1073741824">
+          <attribute name="A_Type_Link" datatype="classifier" value="N_Type_Link_PDTK" />
+          <attribute name="A_Doc_Addition_Ref" datatype="object" value="{A3F3359D-39B3-4BBC-95BB-B93F2B36DF71}" />
+          <attribute name="A_Note" datatype="string" value="" isNull="true" />
+        </row>
+        <row order="1073741824">
+          <attribute name="A_Type_Link" datatype="classifier" value="N_Type_Link_PDTK" />
+          <attribute name="A_Doc_Addition_Ref" datatype="object" value="{96FED28D-906A-480A-A086-2108CCB61610}" />
+          <attribute name="A_Note" datatype="string" value="" isNull="true" />
+        </row>
+        <row order="1073741824">
+          <attribute name="A_Type_Link" datatype="classifier" value="N_Type_Link_PDTK" />
+          <attribute name="A_Doc_Addition_Ref" datatype="object" value="{C6F76EBD-71A1-453D-905F-3F670301B13B}" />
+          <attribute name="A_Note" datatype="string" value="" isNull="true" />
+        </row>
+        <row order="1073741824">
+          <attribute name="A_Type_Link" datatype="classifier" value="N_Type_Link_PDTK" />
+          <attribute name="A_Doc_Addition_Ref" datatype="object" value="{9E0AE61B-642E-4AE1-88EB-AF91C63AA14F}" />
+          <attribute name="A_Note" datatype="string" value="" isNull="true" />
+        </row>
+        <row order="1073741824">
+          <attribute name="A_Type_Link" datatype="classifier" value="N_Type_Link_PDTK" />
+          <attribute name="A_Doc_Addition_Ref" datatype="object" value="{DA36F208-A529-4C0C-A13B-80D01AAFC9C7}" />
+          <attribute name="A_Note" datatype="string" value="" isNull="true" />
+        </row>
+        <row order="1073741824">
+          <attribute name="A_Type_Link" datatype="classifier" value="N_Type_Link_PDTK" />
+          <attribute name="A_Doc_Addition_Ref" datatype="object" value="{F63A9287-D95C-4A2C-9507-5B897408CBE7}" />
+          <attribute name="A_Note" datatype="string" value="" isNull="true" />
+        </row>
+        <row order="1073741824">
+          <attribute name="A_Type_Link" datatype="classifier" value="N_Type_Link_PDTK" />
+          <attribute name="A_Doc_Addition_Ref" datatype="object" value="{50FB1B91-56E1-4A2A-8004-3C806078F151}" />
+          <attribute name="A_Note" datatype="string" value="" isNull="true" />
+        </row>
+        <row order="1073741824">
+          <attribute name="A_Type_Link" datatype="classifier" value="N_Type_Link_PDTK" />
+          <attribute name="A_Doc_Addition_Ref" datatype="object" value="{06564AC5-64CC-46A1-AB31-2875ACA5198E}" />
+          <attribute name="A_Note" datatype="string" value="" isNull="true" />
+        </row>
+        <row order="1073741824">
+          <attribute name="A_Type_Link" datatype="classifier" value="N_Type_Link_PDTK" />
+          <attribute name="A_Doc_Addition_Ref" datatype="object" value="{6DD7AC0C-E6D9-435E-96C8-43A7A86E7DE3}" />
+          <attribute name="A_Note" datatype="string" value="" isNull="true" />
+        </row>
+        <row order="1073741824">
+          <attribute name="A_Type_Link" datatype="classifier" value="N_Type_Link_PDTK" />
+          <attribute name="A_Doc_Addition_Ref" datatype="object" value="{E5F22515-53A2-4E95-B7AA-7F4B0E259957}" />
+          <attribute name="A_Note" datatype="string" value="" isNull="true" />
+        </row>
+        <row order="1073741824">
+          <attribute name="A_Type_Link" datatype="classifier" value="N_Type_Link_PDTK" />
+          <attribute name="A_Doc_Addition_Ref" datatype="object" value="{39AC3BA8-FAB4-4958-AD27-654179A5C983}" />
+          <attribute name="A_Note" datatype="string" value="" isNull="true" />
+        </row>
+        <row order="1073741824">
+          <attribute name="A_Type_Link" datatype="classifier" value="N_Type_Link_PDTK" />
+          <attribute name="A_Doc_Addition_Ref" datatype="object" value="{B3A356AD-6615-4842-9787-7369103404C0}" />
+          <attribute name="A_Note" datatype="string" value="" isNull="true" />
+        </row>
+        <row order="1073741824">
+          <attribute name="A_Type_Link" datatype="classifier" value="N_Type_Link_PDTK" />
+          <attribute name="A_Doc_Addition_Ref" datatype="object" value="{45AD3B7C-8BB3-4139-99BE-EF88D76006CC}" />
+          <attribute name="A_Note" datatype="string" value="" isNull="true" />
+        </row>
+        <row order="1073741824">
+          <attribute name="A_Type_Link" datatype="classifier" value="N_Type_Link_PDTK" />
+          <attribute name="A_Doc_Addition_Ref" datatype="object" value="{B9DF3B15-A1BF-4963-AE1E-20DF7AC32760}" />
+          <attribute name="A_Note" datatype="string" value="" isNull="true" />
+        </row>
+        <row order="1073741824">
+          <attribute name="A_Type_Link" datatype="classifier" value="N_Type_Link_PDTK" />
+          <attribute name="A_Doc_Addition_Ref" datatype="object" value="{15CCE855-C3F7-446A-AE77-436CFF0F5BEC}" />
+          <attribute name="A_Note" datatype="string" value="" isNull="true" />
+        </row>
+        <row order="1073741824">
+          <attribute name="A_Type_Link" datatype="classifier" value="N_Type_Link_PDTK" />
+          <attribute name="A_Doc_Addition_Ref" datatype="object" value="{E855FDC7-E4B4-412E-8310-591B943260B1}" />
+          <attribute name="A_Note" datatype="string" value="" isNull="true" />
+        </row>
+        <row order="1073741824">
+          <attribute name="A_Type_Link" datatype="classifier" value="N_Type_Link_PDTK" />
+          <attribute name="A_Doc_Addition_Ref" datatype="object" value="{58DCCDEA-CE3F-4A9C-A92F-EE3538DA323E}" />
+          <attribute name="A_Note" datatype="string" value="" isNull="true" />
+        </row>
+      </rows>
+    </attribute>
+    <attribute name="A_Doc_Language" datatype="classifier" value="" isNull="true" />
+  </attributes>
+  <files>
+    <file id="791_год от дата.pdf" name="791_год от дата.pdf" primary="true" bodyId="f5932bb7-8718-44f2-93aa-ad64012987c3" modifiedTime="2021-07-13T14:56:44Z" createdTime="2021-07-13T14:56:44Z" fileDef="FILE_AA_PDF" hash="Myd1oebM/4owaDjSSJi5bQ==" size="1951155" path="" />
+  </files>
+</object>

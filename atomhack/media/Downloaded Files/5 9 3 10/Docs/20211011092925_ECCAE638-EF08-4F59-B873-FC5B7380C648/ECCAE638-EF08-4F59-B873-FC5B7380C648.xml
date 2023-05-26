@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<object id="{ECCAE638-EF08-4F59-B873-FC5B7380C648}" createTime="2021-04-15T05:35:36Z" modifyTime="2021-07-13T20:55:52Z" status="S_Doc_Archived" createUser="USER1" objectDef="O_Doc" modifyUser="SYSADMIN">
+  <attributes>
+    <attribute name="A_Package_Number" datatype="string" value="5 9 3 10" />
+    <attribute name="A_Revision_Number" datatype="string" value="0" />
+    <attribute name="A_Inventory_Number" datatype="string" value="040929-E" />
+    <attribute name="A_Name" datatype="string" value="50UMA. Расстановка кабельных металлоконструкций;Ведомость пакета" />
+    <attribute name="A_Name_Eng" datatype="string" value="50UMA. Cable metal structures. Packing list" />
+    <attribute name="A_Designation" datatype="string" value="R23.KK56.50UMA.0.ET.WP.WD003" />
+    <attribute name="A_Dep" datatype="classifier" value="02_AP" />
+    <attribute name="A_User" datatype="user" value="USER1" />
+    <attribute name="A_Doc_Language" datatype="classifier" value="N_Doc_Language_En" />
+  </attributes>
+  <files>
+    <file id="R23 KK56 50UMA 0 ET WP WD003=e0.docx" name="R23 KK56 50UMA 0 ET WP WD003=e0.docx" bodyId="e43c9081-3623-43e3-82fd-ad4200e4819c" modifiedTime="2021-06-02T10:58:17Z" createdTime="2021-06-02T10:53:15Z" fileDef="FILE_WORD" hash="sPK4fWyspcM2DG0ZfH/2lQ==" size="144762" path="" />
+  </files>
+</object>

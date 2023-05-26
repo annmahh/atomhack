@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<object id="{56805175-BD38-4339-B63A-ABCF46882A73}" createTime="2021-04-15T08:49:05Z" modifyTime="2021-07-15T07:09:04Z" status="S_AccommDoc_Create" createUser="USER1" objectDef="O_ACOMM_DOC" modifyUser="USER1">
+  <attributes>
+    <attribute name="A_Creation_Date" datatype="date" value="2021-04-14T21:00:00Z" />
+    <attribute name="A_Name" datatype="string" value="Explanatory Note_5 9 3 10" />
+    <attribute name="A_Designation" datatype="string" value="Explanatory Note_5 9 3 10" />
+    <attribute name="A_Docs_Tbl" datatype="table">
+      <rows>
+        <row order="1073741824">
+          <attribute name="A_Type_Link" datatype="classifier" value="N_Type_Link_ExplanNote" />
+          <attribute name="A_Doc_Addition_Ref" datatype="object" value="{B3A356AD-6615-4842-9787-7369103404C0}" />
+          <attribute name="A_Note" datatype="string" value="" isNull="true" />
+        </row>
+      </rows>
+    </attribute>
+    <attribute name="A_Doc_Language" datatype="classifier" value="N_Doc_Language_En" />
+  </attributes>
+  <files>
+    <file id="EN_5_9_3_10.pdf" name="EN_5_9_3_10.pdf" primary="true" bodyId="4916da90-10a9-4767-bb6a-ad6600a746f2" modifiedTime="2021-07-15T05:41:59Z" createdTime="2021-07-15T05:41:24Z" fileDef="FILE_AA_PDF" hash="9nsNLIRbiNyz40SV+dJejA==" size="75656" path="" />
+  </files>
+</object>
